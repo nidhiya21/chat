@@ -13,7 +13,7 @@
 	channel creation).
 --->
 <cfset pusherAppID = "1353" />
-<cfset pusherKey = "ceef7621b815dc2a7c9f" />
+<cfset pusherKey = "ceef7621b815dc2a7c9f" /> 
 <cfset pusherSecret = "****************" />
 <cfset pusherChannel = "chatRoom" />
 
