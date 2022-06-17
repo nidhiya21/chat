@@ -16,7 +16,7 @@
 <cfset pusherKey = "ceef7621b815dc2a7c9f" />
 <cfset pusherSecret = "****************" />
 <cfset pusherChannel = "chatRoom" />
-
+ 
 <!---
 	Event we are triggering (this is what the client will
 	"bind" to on the given channel).

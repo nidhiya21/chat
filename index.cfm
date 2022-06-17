@@ -14,7 +14,7 @@
 			overflow-x: hidden ;
 			overflow-y: scroll ;
 			padding: 10px 10px 10px 10px ;
-			width: 480px ;
+			width: 480px ;  
 			}
 		#handle {
 			float: left ;
